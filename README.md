@@ -1,2 +1,5 @@
 # Customer-Churn-Prediction
-ML project for predicting telecom customer churn
+
+##Project Description
+This project focuses on predicting customer churn in a telecom company using Machine Learning techniques. 
+
